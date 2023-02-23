@@ -1,0 +1,16 @@
+print(abs(-5))
+print(type(int("-9")))
+print(len("buenos días"))
+usuario_variable=input("ingresa_tu_nombre: ")
+print(len(usuario_variable))
+number1_variable=input("ingresa_un_número: ")
+number2_variable=input("ingresa_un_número: ")
+print(int(number1_variable)+int(number2_variable))
+print(int(number1_variable)-int(number2_variable))
+print(int(number1_variable)*int(number2_variable))
+print(int(number1_variable)/int(number2_variable))
+AR1_variable=input("ingresa_el_valor_de_un_lado_del_rectangulo: ")
+AR2_variable=input("ingresa_el_valor_de_un_lado_del_rectangulo: ")
+print(f"el área del rectangulo es {int(AR1_variable)*int(AR2_variable)}")
+
+
