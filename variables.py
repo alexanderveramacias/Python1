@@ -12,7 +12,6 @@ print("hola",bbb)
 vvv=input("ingresa tu edad: ") 
 print("pero si le resto 1 da",int(vvv)-1)
 print("pero si le sumo 1 a tu edad da",int(vvv)+1)
-print("pero si le sumo 1 a tu edad da",int(40+1)
-)
+print("pero si le sumo 1 a tu edad da",int(40+1))
 
 

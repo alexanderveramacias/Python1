@@ -21,4 +21,5 @@ print(eee_variable.upper())
 name_variable=input("escriba su nombre completo: ")
 print(name_variable.upper())
 alex_variable="alexander"
+# interpolación
 print(f"hola mi nombre es alexander {alex_variable}")
