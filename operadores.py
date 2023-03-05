@@ -9,6 +9,7 @@ print(2>1)
 print(3>=4)
 print(7>=7)
 print(7<=7)
+print(7 != 7)
 print("hola mundo"==4)
 if 7<6:
     print("siete es mayor")
@@ -39,6 +40,14 @@ if sss>7:
 else:
     sss<7
     print(f"este número es menor a 7 {sss}")
+
+# operadores relacionales
+# and
+# or
+# not
+print(6<7 and 7<6)
+print(5<6 or 6<5)
+print(not True)
 
 
 
