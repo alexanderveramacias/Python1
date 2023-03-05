@@ -1,0 +1,8 @@
+mmm=input("ingresa una palabra: ")
+print(mmm.capitalize())
+print(mmm.islower())
+print(mmm.casefold())
+print(mmm.isalpha())
+print(mmm.swapcase())
+#print(mmm.translate())
+print(mmm.expandtabs())
