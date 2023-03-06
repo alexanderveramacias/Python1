@@ -34,12 +34,12 @@ else:
     num<0
     print(f"es un número negativo {num}") 
 
-sss=int(input("no se permite números mayores a 7"))
+sss=int(input("no se permite números mayores a 7: "))
 if sss>7:
    print(f"este número es mayor a 7 {sss}") 
 else:
     sss<7
-    print(f"este número es menor a 7 {sss}")
+    print(f"este número es menor a 7>{sss}")
 
 # operadores relacionales
 # and
