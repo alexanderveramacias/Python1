@@ -49,6 +49,20 @@ print(6<7 and 7<6)
 print(5<6 or 6<5)
 print(not True)
 
+edad=int(input("ingresa tú edad: "))
+pasaporte=input("tiene pasaporte: ")
+if edad>18 and pasaporte=="si":
+    print("es mayor de edad y tiene pasaporte puede viajar")
+elif edad>18 and pasaporte=="no":
+    print("No puedes viajar")
+elif edad<18 and pasaporte=="no":
+    print("no puedes viajar")
+if edad<18 and pasaporte=="si":
+    print("si puede viajar, con tu acompañante")
+
+
+
+
 
 
 
