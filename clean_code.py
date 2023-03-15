@@ -7,4 +7,6 @@ print("la condición no se cumplió")
 
 print(type(""))
 
+# vamos_a_fusionar_dos_ramas
+
 
